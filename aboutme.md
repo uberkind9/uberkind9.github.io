@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Not that you want to know, but...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dan. I'm a Hoosier by birth, world traveller at heart, reluctant coder by trade and I like to build things that solve problems or make repetitive work less burdensome (aka - automation).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I started my professional career as a coding cog at [Bigtime Consulting](http://www.bigtimeconsulting.org/).  From there I moved to doing contract work and helping educators learn, understand, and implement technology (when just getting on the internet was considered "technology").  
 
-What else do you need?
+Now I work in the K12 space doing whatever needs to be done to facilitate teachers, staff, and students daily use of technology.
 
-### My story
+### Things I do
+- INFRASTRUCTURE/OPERATIONS DESIGN & MGMT
+- WORKSTATION/DEVICE MGMT & DEPLOYMENT
+- USER/DIRECTORY MGMT
+- SIS/LMS ADMINISTRATION
+- PHYS SECURITY (Cams/Doors) ADMINISTRATION
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Tools I use
+- macOS + lots of browsers + lots of Terminal windows
+- Citrix Hypervisor, ESXi, Hyper-V
+- VSCode + PowerShell + Python
