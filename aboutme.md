@@ -16,6 +16,7 @@ Now I work in the K12 space doing whatever needs to be done to facilitate teache
 - USER/DIRECTORY MGMT
 - SIS/LMS ADMINISTRATION
 - PHYS SECURITY (Cams/Doors) ADMINISTRATION
+- RANDO CODE-A-THONS to eliminate any repetitive task that irks me
 
 ### Tools I use
 - macOS + lots of browsers + lots of Terminal windows
