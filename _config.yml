@@ -67,7 +67,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm capble of borrowing awesome people's work -
+rss-description: Stepping In IT -
 
 # --- General options --- #
 
@@ -75,15 +75,15 @@ rss-description: This website is a virtual proof that I'm capble of borrowing aw
 share-links-active:
   twitter: true
   #facebook: false
-  linkedin: true
+  #linkedin: true
   #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "uberkinder.com"
+url-pretty: "Stepping In IT"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 75
+excerpt_length: 20
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -92,7 +92,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "filewave,macOS,Apple,Microsoft,Linux,PowerShell,K12,Technology,MDT,Data,scripting,education,"
 
 # --- Colours / background image --- #
 
@@ -189,7 +189,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Indianapolic"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
