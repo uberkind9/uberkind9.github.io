@@ -20,4 +20,4 @@ A soulful notion of success rests on the actualization of our innate image. Succ
 ### Notification
 
 {: .box-note}
-**Note:** [take 5 minutes to check out Dean's stuff](https://github.com/sponsors/daattali)
+**Note:** If this excerpt resonates with you, take 5 minutes to check out [Jeff Brown's](https://www.soulshapinginstitute.com/about-founder-jeff-brown/) and/or [Dean Attali's](https://github.com/sponsors/daattali) stuff.
